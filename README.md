@@ -7,4 +7,4 @@ O jogo tem três níveis de dificuldade: normal, difícil e Chuck Norris, rsrsrs
 
 Você pode otimizar e adicionar elementos no jogo, como por exemplo, mais fases, mosquitos diferentes e sons. Enfim, use sua imaginação!
 
-## Para testar o jogo, acesse a página index.html
+## Para testar o jogo, acesse https://matainseto.netlify.app/
