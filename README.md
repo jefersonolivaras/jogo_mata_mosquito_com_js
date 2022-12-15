@@ -1,4 +1,4 @@
-# jogo_mata_mosquito_com_js
+# Jogo mata mosquito com Javascript
 
 - **Para fazer passo a passo, verifique a pasta `BKP`.**
 
